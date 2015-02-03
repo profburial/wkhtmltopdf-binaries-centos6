@@ -1,4 +1,4 @@
-# wkhtmltopdf for Centos6 0.12.1 qtwebkit
+# wkhtmltopdf for Centos6 0.12.2.1 qtwebkit
 
 [All the binaries for Centos6 from http://wkhtmltopdf.org/downloads.html](http://wkhtmltopdf.org/downloads.html)
 
@@ -15,7 +15,7 @@
     ```js
     {
         "require": {
-            "profburial/wkhtmltopdf-binaries-centos6": "0.12.1"
+            "profburial/wkhtmltopdf-binaries-centos6": "0.12.2.1"
         }
     }
     ```
